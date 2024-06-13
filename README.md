@@ -16,6 +16,29 @@ As a theoretical foundation for our project, we are interested in how conflict l
 * International conflict: military or political altercation involving the U.S. and other countries; this may be World War I, Korean War, and World War II. 
      
 Given this conceptual framework, our guiding hypothesis of this study is: during a conflict year, we predict that there is more racial stigmatization against non-U.S. groups compared to non-conflict years. 
+
+
+## Data
+To explore our hypothesis, we employed content analysis through Melissa Dell's "American Stories" dataset (n = about 20 million) by examining whether and how prevalent implicit stigmatization arises in war news coverage. The data consists of a collection of fully legible article scans from historical newspaper images ranging from the years 1774-1963, and it is further distinguished by detecting legibility of text regions, such as bylines, headlines, and article titles. Given that this dataset is extremely dense, holding nearly 20 million legible articles and obtains other distinguishable column content, to better suit our analysis, the resulting sample we will be using solely focuses on the 20th century (1900-1963) and the article content. 
+
+# Group-Based Discrimination Terms
+Since explicit stigmatization is more easily identifiable, we will be using slurs to see if there are any latent meaning in article content to evoke implicit discrimination. This methodology is based on the notion that explicit slurs can provide insights on how subtler forms of discrimination arises in media. 
+
+To select what slurs are relevant to this study, we utilized a Wikipedia article titled, "List of Ethnic Slurs," to compile a list of slurs and other derogatory terms that were historically used against non-U.S. groups during war times. Since we are focusing on 5 different opposition groups, these are the racial and ethnic identities along with the racial terms typically associated with them that we will be inspecting: 
+* Mexican people: 'greaser', 'wetback', 'beaner', 'pocho'
+* German people: 'kraut', 'hun', 'boche', 'crucco', 'fritz','gummihals','jerry','squarehead','szkop','szwab'
+* Russian people:'commie', 'red', 'russki','moskal','orc','rosuke','roske','slobo'
+* Japanese people: 'jap', 'nip', 'yellow','brownie','canaca','zip','zipperhead'
+* Korean people: 'gook', 'slope', 'zipperhead','zip'
+     
+# Conflict Years vs. Non-Conflict Years
+To inspect whether there is prevalence, we will compare the frequency of implicit discrimination during conflict years versus non-conflict yeas. This data derives from "American Stories," and our utilization of this data will specifically look at a year during a conflict and a year 5 years after the conflict ended. By analyzing the different years, we can identify whether there is a pattern of racist language and media bias across war times as a historical context. Since we are focusing on 5 different wars, these are the years our analysis will be focused on:
+* Mexican Border War: 1916 and 1921
+* World War I: 1917 and 1922
+* Russian Civil War: 1918 and 1923
+* World War II: 1942 and 1947
+* Korean War: 1951 and 1956
+
 ## Methods
 1. We clean the data by removing the unwanted columns
 2. Use BERT for tokenizing then embedding the articles
