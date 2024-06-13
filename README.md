@@ -57,6 +57,9 @@ Based on the graph (Figure 1) portraying the proportion of racist articles again
 
 Moreover, the graph (Figure 2) portraying the proportion of racist remarks during non-war years conveys an interesting result. Pinning the two proportions through a bar plot, there is a drastic disparity between conflict years versus non-conflict: overall, there is more racist sentiment in the media during non-conflict years compared to conflict years, especially during World War 1 and the Korean War. Based on these findings, our prediction conflicts with what is shown on the graph, which indicates that racist sentiments were heightened during non-conflict years rather than conflict years. 
 
+![figure1_nonwarracism](https://github.com/betsyambrogio/Poli179-Final-Project/assets/168610894/bf64263a-4926-4183-8a70-4d7e801e011c)
+
+
 *The Code that has been done so far is in the notebook folder under 01_data_cleaning(1).ipynb
 
 https://colab.research.google.com/drive/1fHvxHgzGC5C1Zb5839Gw6DHAMWKaMSSb?usp=drive_link
