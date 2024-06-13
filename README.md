@@ -11,13 +11,10 @@ While explicit stigmatization often takes on a substantial and overt form of dis
 The U.S.'s involvement in international conflict has been a significant facet of the nation's history, especially knowing the historical context of 20th century wars. Hence, the wars we will inspecting in this project are: Mexican Border War, World War I, Russian Civil War, World War II, and the Korean War. Considering American history, the overt discrimination taking form as racial charicatures and other stereotypes has been commonly understood as an explicit discrimination for framing opposing groups; yet, we aim to examine the extent that subtle insinuations of discrimination arises during war times, and whether this intertwines with framing social identity rhetoric to exacerbate racial divisions similarly to explicit discrimination. By examining the extent of discrimination that the people of the opposition side may be facing during conflict years versus non-conflict years, the historical context signifies how implicit insinuations of discrimination may also play a key role in shaping social attitudes. 
 
 As a theoretical foundation for our project, we are interested in how conflict leads to identity discrimination in the media. During significant international conflicts, social attitudes may be highly impressionable on fostering discrimination due to the tensions involving violent, militaristic conflict. When the media becomes involved in shaping these attitudes, we are interested in how often the media tends to frame stories in a certain way to exacerbate these negative attitudes through racist language. Thus, here are key terms we will be utilizing in our study:
-{\begin{itemize}
-     \item Implicit stigmatization: language that discriminates against individuals based on race, ethnicity, and/or national identity; this may manifest as slurs, stereotypes, and derogatory terms. 
-    \item Racist language: coded language or language that subtly insinuates racist sentiments
-    \item International conflict: military or political altercation involving the U.S. and other countries; this may be World War I, Korean War, and World War II. 
-
-\end{itemize} 
-}
+     Implicit stigmatization: language that discriminates against individuals based on race, ethnicity, and/or national identity; this may manifest as slurs, stereotypes, and derogatory terms. 
+     Racist language: coded language or language that subtly insinuates racist sentiments
+     International conflict: military or political altercation involving the U.S. and other countries; this may be World War I, Korean War, and World War II. 
+     
 Given this conceptual framework, our guiding hypothesis of this study is: during a conflict year, we predict that there is more racial stigmatization against non-U.S. groups compared to non-conflict years. 
 ## Methods
 1. We clean the data by removing the unwanted columns
