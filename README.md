@@ -6,6 +6,7 @@ During significant international conflicts involving the U.S. in history, is the
 Here is a basic guide to navigate this repository:
 * Google Colab Notebooks will be in the *notebook* tab
 * Figures will be in the *figures* tab
+     * **final code to grade is file 01_racist_articles_wars.ipynb**
 
 # Overview
 We will be measuring whether “racist language” arises in articles during U.S. international conflict with specifically foreign states. To measure “racist language,” we will be examining the implicit stigmatization with coded language or language that subtly insinuates racist sentiments. For each conflict, we will find the number of times racist language is used towards ethnicities involved during a given year during the time of the conflict versus the presence of racist language not during the time of the conflict. To analyze the number of times racist language is used when there is no conflict, we will run the same tests on surrounding years and average out their frequencies to find the average amount of racist language during a non-conflict year. We will repeat this process for multiple major conflicts and use regression to find if there is a relationship between space in time (conflict year vs. non conflict year) and the frequency of racist language.
