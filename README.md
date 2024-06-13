@@ -1,6 +1,12 @@
 # Poli179-Final-Project
 # Research Question
 During significant international conflicts involving the U.S. in history, is there an increase in the racist language towards non-U.S. groups in conflict appearing in the content of the article?
+
+# GitHub Repo Table of Contents
+Here is a basic guide to navigate this repository:
+* Google Colab Notebooks will be in the *notebook* tab
+* Figures will be in the *figures* tab
+
 # Overview
 We will be measuring whether “racist language” arises in articles during U.S. international conflict with specifically foreign states. To measure “racist language,” we will be examining the implicit stigmatization with coded language or language that subtly insinuates racist sentiments. For each conflict, we will find the number of times racist language is used towards ethnicities involved during a given year during the time of the conflict versus the presence of racist language not during the time of the conflict. To analyze the number of times racist language is used when there is no conflict, we will run the same tests on surrounding years and average out their frequencies to find the average amount of racist language during a non-conflict year. We will repeat this process for multiple major conflicts and use regression to find if there is a relationship between space in time (conflict year vs. non conflict year) and the frequency of racist language.
 
@@ -59,7 +65,9 @@ Moreover, the graph (Figure 2) portraying the proportion of racist remarks durin
 
 ![figure1_nonwarracism](https://github.com/betsyambrogio/Poli179-Final-Project/assets/168610894/bf64263a-4926-4183-8a70-4d7e801e011c)
 
+# Conclusion 
+After completing our analysis, our initial prediction that conflict years will have more racist stigmatization compared to non-conflict years was contested based on the final findings. Our completed cross-analysis indicates that there was more racist stigmatization during non-conflict years; however, there was still existing racial discrimination during the conflict years. Considering these findings, it is evident that while racist sentiments were portrayed in media during both time periods, there was a drastic showcase that non-conflict years exhibited more racical stigmatization in the news. 
 
-*The Code that has been done so far is in the notebook folder under 01_data_cleaning(1).ipynb
+Although our findings had a conflicting evaluation to what we initially predicted, the results are interesting and entail social and political assessments of news coverage and implicit bias. Implicit stigmatization in media coverage was still proven to exist based on our first method, however, its implications may corroborate a different premise: racial discrimination may instigate and arise during conflict, leading to its pervasive rhetoric may proliferate post-war, thus conveying a consequential chain of racist sentiments. This result may not have supported our hypothesis, yet it nonetheless supports the influence that the media entails in shaping attitudes, which was a primary premise in our the preliminary research process. 
 
-https://colab.research.google.com/drive/1fHvxHgzGC5C1Zb5839Gw6DHAMWKaMSSb?usp=drive_link
+To conclude, our findings convey that racist sentiments are more prevalent in news coverage during non-conflict years compared to conflict years. Using wars as our primary scope of measuring the frequency of racial discrimination in the news, it is evident that racist ideologies are presented during significant conflicts, especially involving political and military presence. Understanding this component of media will allow for insight in how media shapes social attitudes, especially with racial and other social identities.  
