@@ -49,6 +49,14 @@ To inspect whether there is prevalence, we will compare the frequency of implici
 ## Current Limitations
 We are having trouble with processing our data because of how large the dataset is. We wanted to first analyze all data from the 20th century as a whole and do the embeddings with that data set, but there were way too many articles to analyze and our computers couldn't load all of it at once. So our current plan is to do the analysis on each conflict individually by picking a year during that conflict and a year not during that conflict and doing the embeddings just on those years instead of grouping together the whole 20th century. When I run the code that encodes the articles for the year of the mexican border conflict, it was running 30 minutes before I had to turn off my computer to go to class. We're not sure if we should reduce the number of articles somehow, or if it is something that we should change with our code to allow for more efficient running.
 
+# Results
+Based on the graph (Figure 1) portraying the proportion of racist articles against non-U.S. groups, there were certain disparities of the results between the wars, specifically with the World Wars compared to the other wars. Considering the historical context and the scale of the World Wars, these results may suggest that larger global conflicts involving a multitude of nations and more distant non-U.S. groups may lead to an increased level of racist sentiments against these groups that are covered in media. While the other wars have a considerably lower proportion, the racial issues were still present, yet less central. Ultimately, the findings of implicit racist sentiments during war-times indicate a compelling frequency, especially during large-scale wars. 
+
+![figure1_warracism](https://github.com/betsyambrogio/Poli179-Final-Project/assets/168610894/88f96329-5c89-4b95-a1a4-7a691bb5304d)
+
+
+Moreover, the graph (Figure 2) portraying the proportion of racist remarks during non-war years conveys an interesting result. Pinning the two proportions through a bar plot, there is a drastic disparity between conflict years versus non-conflict: overall, there is more racist sentiment in the media during non-conflict years compared to conflict years, especially during World War 1 and the Korean War. Based on these findings, our prediction conflicts with what is shown on the graph, which indicates that racist sentiments were heightened during non-conflict years rather than conflict years. 
+
 *The Code that has been done so far is in the notebook folder under 01_data_cleaning(1).ipynb
 
 https://colab.research.google.com/drive/1fHvxHgzGC5C1Zb5839Gw6DHAMWKaMSSb?usp=drive_link
