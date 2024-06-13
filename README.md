@@ -67,6 +67,11 @@ Moreover, the graph (Figure 2) portraying the proportion of racist remarks durin
 
 ![figure1_nonwarracism](https://github.com/betsyambrogio/Poli179-Final-Project/assets/168610894/bf64263a-4926-4183-8a70-4d7e801e011c)
 
+In the graph (Figure 3) we see that in 2 out of the three wars, races not involved in the conflicts had more racist articles than races involved in wars. The two races not involved in conflict that had higher proportions were Germans during the mexican border war (1916), and russians during the korean war (1951). We expected to see that all races that were involved in these conflicts experienced more racist articles about them, but there were two exceptions to our findings.
+
+<img width="928" alt="image" src="https://github.com/betsyambrogio/Poli179-Final-Project/assets/114265934/06044963-ecd1-4109-848e-792a2bf6c42c">
+
+
 # Conclusion 
 After completing our analysis, our initial prediction that conflict years will have more racist stigmatization compared to non-conflict years was contested based on the final findings. Our completed cross-analysis indicates that there was more racist stigmatization during non-conflict years; however, there was still existing racial discrimination during the conflict years. Considering these findings, it is evident that while racist sentiments were portrayed in media during both time periods, there was a drastic showcase that non-conflict years exhibited more racical stigmatization in the news. 
 
